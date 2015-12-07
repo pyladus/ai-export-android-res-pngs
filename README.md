@@ -1,10 +1,11 @@
 # Script for Adobe Illustrator
-Exports unlocked layers with first character "$" to Android resolution PNG's (MDPI, HDPI, XHDPI, XXHDPI) ready to paste into your Android Studio project. For full explanation check out my blog:
+Exports unlocked layers with first character "$" to Android resolution PNG's (MDPI, HDPI, XHDPI, XXHDPI,XXHDPI and GooglePlay) ready to paste into your Android Studio project. For full explanation check out my blog:
 http://murdochcarpenter.com/illustrator-script-export-android-multi-res-pngs/
 
 ## To install
 Copy and paste the script into your Illustrator Scripts folder. On Windows this is *‘\Program Files\Adobe\Adobe Illustrator CC 2014\Presets\Scripts\’* and on Mac *‘\Applications\Adobe\Illustrator CC 2014\Presets\Scripts\’*. Then anytime you want to export the marked layers run **File > Scripts > ExportAndroidResPNGs**.
 
+Works althought on Adobe Illustrator CS5 and Adobe Illustrator CS6.
 ## What the script does
 - Turns off all layer visibility
 - Exports each layer that is unlocked and has the first character "$"
